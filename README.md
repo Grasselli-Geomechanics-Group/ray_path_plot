@@ -1,1 +1,1 @@
-This is a simple Jypiter notebook to visualize ray paths in between sensors in 3D.
+Simple Jupyter notebook to visualize ray paths between sensors in 3D. Make sure to have pip install ipympl if you want 3D interactive figures in Jupyter notebook %matplotlib widget.
